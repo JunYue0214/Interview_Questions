@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  UglyNumber.cpp
+stdafx.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  UglyNumber.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\34_UglyNumber.exe
+  UglyNumber.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\34_UglyNumber.pdb (Full PDB)

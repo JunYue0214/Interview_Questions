@@ -1,0 +1,5 @@
+﻿  KLeastNumbers.cpp
+d:\my documents\documents\github\interview_questions\kleastnumbers\kleastnumbers.cpp(25): warning C4018: “<”: 有符号/无符号不匹配
+KLeastNumbers.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  KLeastNumbers.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\30_KLeastNumbers.exe
+  KLeastNumbers.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\30_KLeastNumbers.pdb (Full PDB)

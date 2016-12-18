@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  TreeDepth.cpp
+stdafx.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  TreeDepth.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\39_1_TreeDepth.exe
+  TreeDepth.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\39_1_TreeDepth.pdb (Full PDB)

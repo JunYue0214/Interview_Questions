@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  QueueWithTwoStacks.cpp
+  Queue.cpp
+  正在生成代码...
+Queue.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  QueueWithTwoStacks.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\07_QueueWithTwoStacks.exe
+  QueueWithTwoStacks.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\07_QueueWithTwoStacks.pdb (Full PDB)

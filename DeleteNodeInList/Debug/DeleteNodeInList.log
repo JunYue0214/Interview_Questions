@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  DeleteNodeInList.cpp
+DeleteNodeInList.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  DeleteNodeInList.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\13_DeleteNodeInList.exe
+  DeleteNodeInList.vcxproj -> D:\My Documents\Documents\Github\Interview_Questions\Debug\13_DeleteNodeInList.pdb (Full PDB)

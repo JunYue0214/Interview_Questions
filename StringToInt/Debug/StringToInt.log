@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  StringToInt.cpp
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(638,5): error MSB6006: “link.exe”已退出，代码为 -1073741502。

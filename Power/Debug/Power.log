@@ -1,0 +1,3 @@
+﻿  stdafx.cpp
+  Power.cpp
+d:\my documents\documents\github\interview_questions\power\power.cpp(74): error C4578: “abs”: 从“double”到“int”的转换，可能丢失数据(你的意思是调用“fabs”或进行 #include <cmath>?)
